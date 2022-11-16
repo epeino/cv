@@ -6,6 +6,5 @@ title: "List of Publications"
 description: |
 ---
 
-- [ResearchGate](https://www.researchgate.net/profile/Pablo-Arantes)
-- [GoogleScholar](https://scholar.google.com/citations?user=PtrGDD8AAAAJ&hl=en)
-
+- [ResearchGate](https://www.researchgate.net/profile/Jack-Saprrow)
+- [GoogleScholar](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Jack+Sparrow&btnG=)

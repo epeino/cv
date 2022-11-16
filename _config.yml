@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://pablo-arantes.github.io/
-title: Pablo R. Arantes
-email: pablitoarantes@gmail.com
-author: Pablo R. Arantes
-description: "Research scientist at the University of California Riverside, working in the field of biophysics."
+url: https://jack-sparrow.github.io/
+title: Jack Sparrow
+email: jack-sparrow@gmail.com
+author: Jack Sparrow
+description: "Captain of the Pearl"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,17 +26,17 @@ plugins:
 social:
   - icon: github
     title: github
-    url: https://github.com/pablo-arantes 
+    url: https://github.com/jack-sparrow
   - icon: envelope-o
     title: email
-    url: mailto:pablitoarantes@gmail.com
+    url: mailto:jack-sparrow@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/pablo-ricardo-arantes/
+    url: https://www.linkedin.com/in/jack-sparrow/
   - icon: file-pdf-o
     title: CV
-    url: img/CV_Arantes.pdf
+    url: img/CV.pdf
   - icon: twitter
     title: twitter
-    url: https://twitter.com/pablitoarantes
+    url: https://twitter.com/jack-sparrow
 
