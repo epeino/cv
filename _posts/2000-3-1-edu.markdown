@@ -1,14 +1,12 @@
 ---
 layout: default
-img: bachelor.jpg
+img: bachelor.jpeg
 category: Education
-title: Bachelor's in Pharmaceutical Sciences
+title: Bachelor's in Buccaneer
 description: |
 ---
 
-* __2007 - 2012__
-* Federal University of Rio Grande do Sul - Porto Alegre - Brazil
-* Advisor: Dr. Hugo Verli
-* Scholarship from: CNPq and CAPES
-
-
+* __2018 - 2019__
+* Tortuga Academy - East Indies
+* Advisor: Run
+* Scholarship from: Pirates association
