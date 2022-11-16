@@ -1,14 +1,12 @@
 ---
 layout: default
-img: phd.jpg
+img: phd.png
 category: Education
-title: PhD in Cellular & Molecular Biology
+title: PhD in Lord Pirat
 description: 2014-2018
 ---
 
-* __2014 - 2018__
-* Federal University of Rio Grande do Sul - Porto Alegre - Brazil
-* Structural and Dynamic Bases of Biomolecules on the N‐glycosylation pathway in Bacteria
-* Advisor: Dr. Hugo Verli
-* Scholarship from: CNPq and CAPES
-
+* __2011 - 2017__
+* A description of your piracy
+* Advisor: Keith Richards
+* Scholarship from: Pirates association

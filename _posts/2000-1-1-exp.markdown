@@ -1,12 +1,12 @@
 ---
 layout: default
-img: code.jpg
+img: black-pearl.jpg
 category: Experiences
-title: "Postdoctoral Researcher"
+title: "Postdoctoral Researcher in navigation license"
 description: |
 ---
 
-* __2019 – Current__
-* University of California, Riverside
-* Position: Postdoctoral Researcher under Dr. Giulia Palermo
-* Activities: Structural and conformational characterization of of proteins and nucleic acids involved in genome editing and regulation, which are promising against cancer and genetic diseases. Please, see more information [here](https://palermolab.com/research/).
+* __2018 – Today__
+* Caribbean sea.
+* Position: Captain of the Black Pearl
+* Activities: Wondering around. Please, see more information [here](https://en.wikipedia.org/wiki/Black_Pearl).

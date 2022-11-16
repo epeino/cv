@@ -1,14 +1,12 @@
 ---
 layout: default
-img: master.jpg
+img: master.gif
 category: Education
-title: Master's in Cellular & Molecular Biology
+title: Master's in piracy
 description: |
 ---
 
-* __2013 - 2014__
-* Federal University of Rio Grande do Sul - Porto Alegre - Brazil
-* Force Fields Reliability on the Description of protein complexed and uncomplexed siRNA
-* Advisor: Dr. Hugo Verli
-* Scholarship from: CNPq and CAPES
-
+* __2006 - 2007__
+* A description of your piracy
+* Advisor: Captain Barbosa
+* Scholarship from: Pirates association
