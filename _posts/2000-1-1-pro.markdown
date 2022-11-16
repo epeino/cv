@@ -1,9 +1,9 @@
 ---
 layout: default
-img: project.jpg
+img: project1.gif
 category: Projects
-title: "Making it rain"
-description: Cloud-based molecular simulations for everyone
+title: "Run Jack run"
+description: running for your live
 ---
 
-* __Making it rain__ is a Jupyter notebook scripts for running Molecular Dynamics (MD) simulations using OpenMM engine and AMBER and CHARMM force fields files on Google Colab. The main goal of this work is to demonstrate how to harness the power of cloud-computing to run microsecond-long MD simulations in a cheap and yet feasible fashion. More infomation here: [Making-it-rain](https://pablo-arantes.github.io/making-it-rain/).
+* __Run Jack run__ is a collection of reason to stay motivate during exercises. More infomation here: [run-jack-run](https://jack-sparrow.github.io/run-jack-run/).

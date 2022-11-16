@@ -1,12 +1,12 @@
 ---
 layout: default
-img: dna.jpg
+img: exp1.jpeg
 category: Experiences
 title: "Research Fellow"
 description: |
 ---
 
-* __2018 – 2019__
-* Federal University of Health Sciences of Porto Alegre - Brazil
-* Activities: Structural and conformational characterization of Nek1 protein and new pyrimidine inhibitors with therapeutic potential in the treatment of glioblastoma.
-* Supervisor: Dr. Dinara Jaqueline Moura
+* __2017 – 2018__
+* Caribbean sea.
+* Position: Freelance Pirate
+* Activities: Wondering around. Please, see more information [here](https://en.wikipedia.org/wiki/Jack_Sparrow).

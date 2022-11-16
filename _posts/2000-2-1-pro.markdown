@@ -1,9 +1,9 @@
 ---
 layout: default
-img: project2.jpg
+img: project2.webp
 category: Projects
-title: "Cloud-Bind"
-description: Cloud-based Drug Binding Structure Prediction 
+title: "Parley"
+description: Always try to speak
 ---
 
-* __Cloud-Bind__ is a repository where you can find a Jupyter notebook scripts for running EquiBind (geometric deep learning for drug binding structure prediction) and GNINA (molecular docking program with integrated support for scoring and optimizing ligands using convolutional neural networks) on Google Colab. More infomation here: [Cloud-Bind](https://github.com/pablo-arantes/Cloud-Bind).
+* __Parley__ checklist of what to do and not to do during negotiations. More information here: [Parley](https://github.com/jack-sparrow/Parley).

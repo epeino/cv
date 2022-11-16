@@ -1,10 +1,15 @@
 ---
 layout: default
-img:
+img: publications.jpg
 category: Publications
 title: "List of Publications"
 description: |
 ---
+* **How I almost got killed by Lady Swan**, *Jack Sparrow, Elizabeth Swan, William Turner III, Davy Jones*, Tortuga Printing Press, [10.3389/doicodedoicode](10.3389/doicodedoicode)
+* **The Kraken and other stories**, *Jack Sparrow, Hector Barbossa, Jack the Monkey, Joshamee Gibbs*, 1st Congress of Pirate, [10.1016/doicodedoicode](10.1016/doicodedoicode)
+* **How I lost my ship and how to get it back**, *Jack Sparrow*, Conference in Tortuga, [10.5220/doidoidoi](10.5220/doidoidoi)
 
-- [ResearchGate](https://www.researchgate.net/profile/Jack-Saprrow)
-- [GoogleScholar](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Jack+Sparrow&btnG=)
+See also:
+
+* [ResearchGate](https://www.researchgate.net/profile/Jack-Saprrow)
+* [GoogleScholar](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Jack+Sparrow&btnG=)
